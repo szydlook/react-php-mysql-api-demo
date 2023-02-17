@@ -4,5 +4,5 @@ In this exercise I use:
 - Models/Controllers/Routes on API side
 - Pure CSS for styling
 
-![Product List](product-list.jpg)
-![Product Add](product-add.jpg)
+![Product List](product-list.jpeg)
+![Product Add](product-add.jpeg)
