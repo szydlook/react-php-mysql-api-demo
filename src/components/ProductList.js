@@ -4,7 +4,7 @@ import axios from "axios";
 
 function ProductBox({ id, sku, name, price, attribute}) {
     return (
-        <div className="pure-u-1-4">
+        <div className="pure-u-1-2 pure-u-md-1-4 pure-u-xxl-1-6">
             <div className="product-box">
                 <input type="checkbox" name={id} value={id || ""} className="delete-checkbox" aria-label="Check me" />
                 <p>{sku}</p>
